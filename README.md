@@ -1,0 +1,1 @@
+Este backend es una API RESTful para gestionar un CRUD (Crear, Leer, Actualizar, Eliminar) de productos. Utiliza una arquitectura Modelo-Vista-Controlador (MVC), el patrón de diseño DTO (Data Transfer Object) para la transferencia de datos, y MongoDB como sistema de gestión de base de datos NoSQL.
